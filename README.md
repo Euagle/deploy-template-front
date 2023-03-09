@@ -11,3 +11,5 @@ https://github.com/labenuexercicios/deploy-template-backend
 3. Abra a pasta onde você guarda os materiais do curso pelo terminal.
 4. Baixe o repositório usando: git clone url-copiada.
 5. Abra a pasta no vscode. Vamos codar!
+
+deploy: https://nome-difere-do-seu-site.surge.sh/
